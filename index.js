@@ -1,8 +1,8 @@
 // require file system
 const fs = require('fs');
 
-// licenses below. inquirer prompt starts on line 252.
-const MIT =`MIT License
+// licenses below. Inquirer prompt starts on line 252.
+const MIT =`MIT LICENSE
 
 Copyright (c) 2023 [YOUR NAME]
 
