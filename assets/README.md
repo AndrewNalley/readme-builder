@@ -2,7 +2,7 @@
 
 ## Description
 
-lisjdf
+This project was developed so that your typical busy programmer can quickly generate the pesky README with a few prompts and get on with their genius code. Since READMEs generally follow the same outline, the user simply has to fill in descriptions of their project, how to use it, how they want the project used in the community, and what license they want. This way, they can avoid finding and copying a template themselves. One thing learned during this project is that the node package has a LOT of files, and these files do not need to be tracked by git for the project. It saves a lot of time and memory on GitHub to add the node modules to the gitignore file. I went a little beyond the assignment by having the entire chosen license display in the README once the prompts are completed. 
 
 ## Table of Contents 
 
@@ -17,9 +17,11 @@ lisjdf
 ## Installation
 
 NPM init
+In order to install inquirer, please use [ npm i inquirer@8.2.4. ]
 
 ## Usage
 
+USER STORY
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
@@ -40,16 +42,25 @@ THEN this is added to the section of the README entitled Questions, with instruc
 WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
-SCREENSHOTS
+
+HOW TO RUN:
+In the command line (open in integrated terminal in VSCode) enter: node index.js
+Then, respond to each prompt and hit enter. 
+
+
+SCREENSHOTS/VIDEOS
 
     ![alt text](assets/images/screenshot.png)
 (remove the tab before the '!' above)
 
 ## Credits
 
-lsdkjhglkjsdhfgkjhsdfg
+Tutorials or Credits:
+Markdown Licenses
+https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
-If you followed tutorials, include links to those here as well.
+Types of Licenses
+https://choosealicense.com/
 
 ## License
 
@@ -74,24 +85,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## Contribute
-
-no
-
-## Tests
-
-jhsdlfkjghsdklfjhg
-
-## Questions
-
-Got any? Contact me!
-
-Email: sdfhsdfghsf
-Github: https://github.com/YRRDRRDYR
-
