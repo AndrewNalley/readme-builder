@@ -50,8 +50,7 @@ Then, respond to each prompt and hit enter.
 
 SCREENSHOTS/VIDEOS
 
-    ![alt text](assets/images/screenshot.png)
-(remove the tab before the '!' above)
+https://drive.google.com/file/d/1zQFg5CYASwsK489hKncB8Md6wirYI0Sk/view
 
 ## Credits
 
@@ -61,6 +60,9 @@ https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba
 
 Types of Licenses
 https://choosealicense.com/
+
+Naming choices help: 
+https://www.digitalocean.com/community/tutorials/nodejs-interactive-command-line-prompts
 
 ## License
 
