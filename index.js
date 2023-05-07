@@ -403,3 +403,4 @@ Github: https://github.com/${username}
 
 `, err => err ? console.log(err) : console.log("success"))
 );
+// Log error if thrown ^ 
